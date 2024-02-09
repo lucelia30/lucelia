@@ -1,0 +1,108 @@
+/*rodapé*/ 
+
+footer{
+    text-align: center;
+}
+footer p {
+    font-weight: bold;
+    padding: 10px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+}
+
+
+/*cabeçalho*/
+header img {
+    height: 60px;
+    width: 60px;
+}
+
+body{
+    background-color: dodgerblue;
+    color: darkblue;
+}
+
+
+
+
+
+/*banner*/
+#section-banners img {
+    text-align: center;
+    height: 30px;
+    width: 30px;
+}
+
+/*Produtos vendidos*/
+
+#section-vendidos {
+    text-align: center;
+    }
+    #section-vendidos h2 {
+    font-weight: bold;
+    padding: 20px;
+    }
+    #section-vendidos img {
+    height: 2%;
+    border-radius: 10px;
+    }
+    #section-vendidos .card {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    }
+    #section-vendidos .preco {
+    color: rgb(255, 0, 0);
+    font-size: 18px;
+    font-weight: bold;
+    }
+
+    .produto-imagem{
+        height: 300px;
+        width: 100%;
+        margin-bottom: 10px;
+        background-position: center;
+        margin-top: -25%;
+        background-size: cover;
+    }
+    #img-1{
+        width: 100px; height: 100px;  margin-top:5%;
+       /*   "../" comando utilizado para voltar uma pasta no arquivo  */ 
+    }
+    #img-2{
+        background-image: url(../img-ava/fresa\ corte\ helicoidal.webp);
+        width: 100px; height: 100px;
+    }
+    #img-3{
+        background-image: url(../img-ava/fresa\ metal\ duro\ de\ chanfro.webp);
+        width: 100px; height: 100px;  margin-top:5%;
+        
+    }
+    #img-4{
+        background-image: url(../img-ava/fresa\ topo\ esfera.webp);
+        width: 100px; height: 100px;  margin-top:5%;
+    }
+    
+    footer{
+        background-color: #a93db3;
+        color: #ffff;
+        text-align: center;
+        padding: 80px;
+        border-top: 3px solid #0f642f;
+        border-bottom: 4px solid #0f642f;
+    }
+    
+
+/*Rodapé*/
+
+.bnt {
+    margin-bottom: 300px;
+}
+
+/*contéudo*/
+
+
+
